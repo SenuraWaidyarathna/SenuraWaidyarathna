@@ -50,7 +50,7 @@ An e-commerce web application concept for an auto parts retailer, featuring a sh
 - Continuously improve my programming skills
 
 ## 📫 Connect With Me
-- LinkedIn: *(Add your LinkedIn profile link here)*
+- LinkedIn: https://www.linkedin.com/in/senura-thisuladeepa-47615435b?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - GitHub: https://github.com/SenuraWaidyarathna
 
 ---
