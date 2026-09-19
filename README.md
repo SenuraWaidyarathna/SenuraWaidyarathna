@@ -7,6 +7,7 @@ I'm a Computer Science undergraduate passionate about software development, prob
 
 ### Languages
 - C++
+- C
 - Java
 - SQL
 - HTML
