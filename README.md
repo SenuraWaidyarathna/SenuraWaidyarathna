@@ -18,6 +18,7 @@ I'm a Computer Science undergraduate passionate about software development, prob
 ### Areas of Interest
 - Software Development
 - Web Development
+- Data Analysis & Algorithms
 - Data Structures & Algorithms
 - Database Management
 - Computer Networks
