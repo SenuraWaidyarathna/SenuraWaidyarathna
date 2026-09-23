@@ -49,7 +49,7 @@ An e-commerce web application concept for an auto parts retailer, featuring a sh
 - Build real-world software projects ✅
 - Contribute to open-source projects ✅
 - Secure a software engineering internship
-- Continuously improve my programming skills
+- Continuously improve my programming skills ✅
 
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/senura-waidyarathna
